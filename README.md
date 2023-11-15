@@ -1,4 +1,4 @@
-# Student projects at [European Spallation Source Data Management and Software Centre](https://europeanspallationsource.se/data-management-software-centre)
+## Student projects at [European Spallation Source Data Management and Software Centre](https://europeanspallationsource.se/data-management-software-centre)
 * [Help us improve support for e.g. STEP or STL geometries](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_CAD.pdf)
 * [Help us improve 3D visualisa0on in McStas](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_CAD_mcdisplay.pdf)
 * [Use MCPL and KDSource u3ls and ML / AI to generate “analy3cal” McStas source models from par3cle clouds](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_KDSource.pdf)
