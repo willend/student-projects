@@ -4,7 +4,7 @@
 * [Use MCPL and KDSource u3ls and ML / AI to generate “analy3cal” McStas source models from par3cle clouds](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_KDSource.pdf)
 * [Including Nested Mirror Optics (NMO) in the guide optimizer guide_bot](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_NMO_guide_bot.docx)
 * [Numerical optimization of Monte-Carlo ray-tracing simulation of neutron scattering instrumentation using McStas and McStasScript Python API](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_Optimizer.docx)
-* [Projects within SasView – a toolkit for analysing Small Angle Sca9ering data](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_SasView.pdf)
+* [Projects within SasView – a toolkit for analysing Small Angle Scattering data](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_SasView.pdf)
 * [Improving variance reduction in McStas Union components](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_Union_variance.docx)
 * [Optimization of neutron guides for very long wavelengths that counteract the vertical aberrations from gravity](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_VCN_guide_bot.docx)
 * [Implement an image-recogni0on based data quality monitor](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_ai_detector_alarms.pdf)
