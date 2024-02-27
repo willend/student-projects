@@ -7,7 +7,7 @@
 * [Projects within SasView – a toolkit for analysing Small Angle Scattering data](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_SasView.pdf)
 * [Improving variance reduction in McStas Union components](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_Union_variance.docx)
 * [Optimization of neutron guides for very long wavelengths that counteract the vertical aberrations from gravity](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_VCN_guide_bot.docx)
-* [Implement an image-recogni0on based data quality monitor](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_ai_detector_alarms.pdf)
+* [Implement an image-recognition based data quality monitor](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_ai_detector_alarms.pdf)
 * [Creating knowledge graph and estimating biases in data from photon and neutron open science cloud data portal](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_federated_search_knowledge_graph.pdf)
 * [Modify exitsting McStas optical component models to allow “reverse” raytracing from “sample” to “source”](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_reverse_Optics.pdf)
 * [Improving at scale information retrieval relevancy score
