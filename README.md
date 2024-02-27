@@ -1,6 +1,6 @@
 ## Student projects at [European Spallation Source Data Management and Software Centre](https://europeanspallationsource.se/data-management-software-centre)
 * [Help us improve support for e.g. STEP or STL geometries](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_CAD.pdf)
-* [Help us improve 3D visualisa0on in McStas](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_CAD_mcdisplay.pdf)
+* [Help us improve 3D visualisation in McStas](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_CAD_mcdisplay.pdf)
 * [Use MCPL and KDSource utils and ML / AI to generate "analytical" McStas source models from particle clouds](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_KDSource.pdf)
 * [Including Nested Mirror Optics (NMO) in the guide optimizer guide_bot](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_NMO_guide_bot.docx)
 * [Numerical optimization of Monte-Carlo ray-tracing simulation of neutron scattering instrumentation using McStas and McStasScript Python API](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_Optimizer.docx)
