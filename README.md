@@ -11,6 +11,6 @@
 * [Improving at scale information retrieval relevancy score
 service for distributed search](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_search_scoring.pdf)
 
-## Examples of past studen projects
+## Examples of past student projects
 * [Help us improve 3D visualisation in McStas](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_CAD_mcdisplay.pdf)
 * [Help us improve support for e.g. STEP or STL geometries](https://github.com/ess-dmsc-dram/student-projects/blob/main/project_CAD.pdf)
